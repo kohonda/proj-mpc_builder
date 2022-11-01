@@ -20,4 +20,4 @@ This study presents a new framework for vehicle motion planning and control base
 
 ## Links
 
-- Preprint
+- [Preprint paper](https://arxiv.org/abs/2210.16512)
