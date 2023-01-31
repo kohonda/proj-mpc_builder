@@ -16,7 +16,7 @@ This study presents a new framework for vehicle motion planning and control base
 
 ## Video
 
-{% include youtube.html id="dMx3GVumrkY" %}
+{% include youtube.html id="15J2p26OoLI" %}
 
 ## Links
 
