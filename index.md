@@ -2,7 +2,7 @@
 **Kohei Honda, Hiroyuki Okuda, Akira Ito, and Tatsuya Suzuki**
 
 {: align="center"}
-**In Review**
+**IEEE Intelligent Vehicles Symposium 2023**
 
 <center>
 <img class="img-responsive" width="100%" src="images/concept.jpeg">
